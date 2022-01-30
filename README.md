@@ -33,11 +33,6 @@ To learn more about the protocol go to this link: https://en.wikipedia.org/wiki/
 Image source: [link](https://medium.com/@qcgiitr/fundamentals-of-quantum-key-distribution-bb84-b92-e91-protocols-e1373b683ead)
 
 
-
-
-
-
-
 Set up -
 
 ```
@@ -57,6 +52,7 @@ Resources -
 
 Our team would like to thank the entire organizing team of iQuHACK for giving us this splendid opportunity to learn. We are thankful and grateful to have been involved in this enticing quantum quest !
 
+---
 
 Enjoy the Quantum Cruise !
 Regards, 
