@@ -45,12 +45,20 @@ pip install -r requirements.txt
 python -m flask run
 ```
 
+Check out the [Quantum Key Distribution - Ekert 91 Protocol notebook](https://github.com/Chasmiccoder/Q-Sup/blob/master/Quantum%20Key%20Distribution%20-%20Ekert%2091%20Protocol.ipynb) to understand how we deployed the QKD E91 protocol to make Q-Sup work.
+
 Resources -
-<a href="https://www.freepik.com/vectors/background">Background vector created by coolvector - www.freepik.com</a>
+1. <a href="https://www.freepik.com/vectors/background">Background vector created by coolvector - www.freepik.com</a>
+2. [Qiskit - Quantum Key Distribution](https://qiskit.org/textbook/ch-algorithms/quantum-key-distribution.html)
+3. [Fundamentals of Quantum Key Distribution](https://medium.com/@qcgiitr/fundamentals-of-quantum-key-distribution-bb84-b92-e91-protocols-e1373b683ead)
+4. [QKDs and secret keys](https://mpl.mpg.de/fileadmin/user_upload/Chekhova_Research_Group/Lecture_4_12.pdf)
 
 # Experience
 
 Our team would like to thank the entire organizing team of iQuHACK for giving us this splendid opportunity to learn. We are thankful and grateful to have been involved in this enticing quantum quest !
 
 
-
+Enjoy the Quantum Cruise !
+Regards, 
+Team Q-Sup
+Angela, Aryaman, Galeinston, Rita and Sahil
