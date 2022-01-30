@@ -48,4 +48,9 @@ python -m flask run
 Resources -
 <a href="https://www.freepik.com/vectors/background">Background vector created by coolvector - www.freepik.com</a>
 
+# Experience
+
+Our team would like to thank the entire organizing team of iQuHACK for giving us this splendid opportunity to learn. We are thankful and grateful to have been involved in this enticing quantum quest !
+
+
 
